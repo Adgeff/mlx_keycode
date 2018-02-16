@@ -6,7 +6,7 @@
 /*   By: geargenc <geargenc@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2018/02/16 16:54:47 by geargenc          #+#    #+#             */
-/*   Updated: 2018/02/16 19:26:58 by geargenc         ###   ########.fr       */
+/*   Updated: 2018/02/16 19:45:39 by geargenc         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -120,16 +120,16 @@
 ** Numbers (not numeric keypad ones)
 */
 
-# define 1_KEY 18
-# define 2_KEY 19
-# define 3_KEY 20
-# define 4_KEY 21
-# define 5_KEY 23
-# define 6_KEY 22
-# define 7_KEY 26
-# define 8_KEY 28
-# define 9_KEY 25
-# define 0_KEY 29
+# define K1_KEY 18
+# define K2_KEY 19
+# define K3_KEY 20
+# define K4_KEY 21
+# define K5_KEY 23
+# define K6_KEY 22
+# define K7_KEY 26
+# define K8_KEY 28
+# define K9_KEY 25
+# define K0_KEY 29
 
 /*
 ** Special characters
